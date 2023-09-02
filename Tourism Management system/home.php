@@ -141,7 +141,7 @@
             <li>AA1931 - Daham Kahawearachchi - Software Engineer</li>
             <li>AA1685 - Peshan Radeesha -Attendance & Collaboration</li>
             <li>AA1867 - Lakmini Anuruddhika - Business Analyst </li>
-            <li> </li>
+            <li>AA1944 - Kithmi Kavithma - Database  </li>
             <li> </li>
          </ul>
       </p>
